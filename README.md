@@ -6,6 +6,10 @@ This repository contains my implementation of an end-to-end Data Analytics proje
 
 ---
 
+<img width="596" height="328" alt="image" src="https://github.com/user-attachments/assets/35d41130-607e-48f9-add7-d05817343ca5" />
+<img width="601" height="329" alt="image" src="https://github.com/user-attachments/assets/07e02c2d-fc9a-4b0a-9ee4-6dc5a7536e77" />
+
+
 ## 📌 Project Overview
 
 The objective of this project was to understand and practice the complete analytics pipeline used in industry, including:
